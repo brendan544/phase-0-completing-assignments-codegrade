@@ -38,17 +38,7 @@ your assignments and submit them using CodeGrade.
 
 Throughout this course, you will be downloading many assignments, so it is
 important to keep your code organized. If you haven't yet, we recommend that you
-go through the steps in
-[the previous lesson](https://github.com/learn-co-curriculum/phase-0-organizing-work-on-your-computer)
-to set up a directory where you can keep all of your work for this course.
-
-> **Note:** The process we'll go through in this lesson will create sub-folders
-> automatically. Whenever you are starting a new assignment, navigate back to
-> your main `se-prep` folder (`cd ~/Development/code/se-prep`) before cloning
-> the assignment to ensure these sub-folders don't get created _within each
-> other_.
-
-### Accessing GitHub and Forking
+go through the steps ingit
 
 All the lessons in this course have a corresponding repository (repo) in GitHub.
 On this page in Canvas, you should see two icons in the **upper right** corner.
